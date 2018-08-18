@@ -1,0 +1,11 @@
+.item-counter_decrement{
+	color: red;
+}
+
+.item-counter_input{
+	width: 3em;
+}
+
+.item-counter_increment{
+	color: green;
+}
